@@ -1,6 +1,6 @@
 # AmazonCloneSite
-Amazon Clone
-<a href="https://sanket3212.github.io/AmazonCloneSite/">CLICK TO VISIT THE WEBSITE</a>
+Amazon Clone<br>
+<a href="https://sanket3212.github.io/AmazonCloneSite/">CLICK TO VISIT THE WEBSITE</a><br>
 NOT RESPONSIVE
 
 
@@ -10,4 +10,4 @@ NOT RESPONSIVE
 
 ![Screenshot 2023-08-09 005933](https://github.com/Sanket3212/AmazonCloneSite/assets/114338403/49c3a99e-dd92-4bfc-9131-d143ed66e052)
 
-<a href="www.linkedin.com/in/sanket-kumbhar-90754569059673115094"  align-item:center>Sanket3212</a>  
+<a href="www.linkedin.com/in/sanket-kumbhar-90754569059673115094"  align-text:center>Sanket3212</a>  
