@@ -1,8 +1,8 @@
 # AmazonCloneSite
 Amazon Clone<br>
-<a href="https://sanket3212.github.io/AmazonCloneSite/">CLICK TO VISIT THE WEBSITE</a><br>
-NOT RESPONSIVE
-
+<a href="https://sanket3212.github.io/AmazonCloneSite/">cilck to see the website🛒</a><br>
+NOT RESPONSIVE<br>
+Preview🛒
 
 ![amzoneProject1](https://github.com/Sanket3212/AmazonCloneSite/assets/114338403/e0ebaf95-e051-4a77-a37d-b49cd2128520)
 
