@@ -1,5 +1,5 @@
 # AmazonCloneSite
-Amazon Clone<br>
+                   Amazon Clone<br>
 <a href="https://sanket3212.github.io/AmazonCloneSite/">cilck to see the website🛒</a><br>
 NOT RESPONSIVE<br>
 Preview🛒
